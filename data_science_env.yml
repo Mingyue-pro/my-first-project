@@ -1,0 +1,34 @@
+name: data_science
+channels:
+  - defaults
+dependencies:
+  - blas=1.0=openblas
+  - bottleneck=1.3.7=py38hbda83bc_0
+  - ca-certificates=2025.9.9=hca03da5_0
+  - libcxx=20.1.8=h8869778_0
+  - libffi=3.4.4=hca03da5_1
+  - libgfortran=5.0.0=11_3_0_hca03da5_28
+  - libgfortran5=11.3.0=h009349e_28
+  - libopenblas=0.3.30=hf2bb037_0
+  - libzlib=1.3.1=h5f15de7_0
+  - llvm-openmp=20.1.8=he822017_0
+  - ncurses=6.5=hee39554_0
+  - numexpr=2.8.4=py38h79ee842_1
+  - numpy=1.24.3=py38h1398885_0
+  - numpy-base=1.24.3=py38h90707a3_0
+  - openssl=3.0.17=h4ee41c1_0
+  - pandas=2.0.3=py38h46d7db6_0
+  - pip=24.2=py38hca03da5_0
+  - python=3.8.20=hb885b13_0
+  - python-dateutil=2.9.0post0=py38hca03da5_2
+  - python-tzdata=2025.2=pyhd3eb1b0_0
+  - pytz=2024.1=py38hca03da5_0
+  - readline=8.3=h0b18652_0
+  - setuptools=75.1.0=py38hca03da5_0
+  - six=1.16.0=pyhd3eb1b0_1
+  - sqlite=3.50.2=h79febb2_1
+  - tk=8.6.15=hcd8a7d5_0
+  - wheel=0.44.0=py38hca03da5_0
+  - xz=5.6.4=h80987f9_1
+  - zlib=1.3.1=h5f15de7_0
+prefix: /opt/anaconda3/envs/data_science
